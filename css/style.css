@@ -8,6 +8,7 @@ body{
 	overflow-x: hidden;
 }
 
+
 *{
 	box-sizing: border-box;
 	margin:0;
@@ -16,6 +17,7 @@ body{
 }
 
 /*Header*/
+
 
 header{
 	position:fixed;
@@ -44,6 +46,7 @@ header .logo a{
 	font-weight: 700;
 }
 header .logo a span{
+	
 	/* color:#c11325; */
 	color:#F2613F;
 }
